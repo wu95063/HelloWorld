@@ -10,6 +10,6 @@ print(' //// ')#字符串->////
 print('love'*10)#字符串*数字=字符串->lovelovelovelovelovelovelovelovelovelove
 print(10*'love')#数字*字符串=字符串->lovelovelovelovelovelovelovelovelovelove
 #考虑print('10'*'love')会出现什么结果
-print('10*10')##字符串->10*10
+print('10*10')##字符串->10*10.
 
 
