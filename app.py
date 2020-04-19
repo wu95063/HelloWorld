@@ -1,1 +1,2 @@
-print("Hello world 123")
+print('00')
+print(12)
