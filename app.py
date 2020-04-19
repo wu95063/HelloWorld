@@ -1,2 +1,1 @@
-print('00')
-print(12)
+print("hello world hahaha")
