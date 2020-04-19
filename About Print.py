@@ -11,5 +11,15 @@ print('love'*10)#字符串*数字=字符串->lovelovelovelovelovelovelovelovelov
 print(10*'love')#数字*字符串=字符串->lovelovelovelovelovelovelovelovelovelove
 #考虑print('10'*'love')会出现什么结果
 print('10*10')##字符串->10*10.
+print(3.012)#浮点型
+print(3.012*2)#浮点型和整数型相乘=浮点型
+print(2*0.5)#输出为1.0意味着还是浮点型。
+print(0.2*0.2)#输出浮点型
+print(True)#bool布尔类型需要大写。
+print(False)#bool布尔类型需要大写。
+a=True
+print(a)#布尔类型。
+
+
 
 
