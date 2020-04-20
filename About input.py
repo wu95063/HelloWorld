@@ -4,7 +4,7 @@ print('Hello '+full_name)#字符串和字符串可以进行拼接，公式：字
 print(full_name*10)#公式：字符串*整数=字符串
 print(full_name+str('00'))#字符串
 birth_year=input('Please input your birth year:  ')#获取用户输入信息，并将用户信息返回给bitth_year变量，birth_year这个变量的类型是字符串
-age=2020-int(birth_year)#定义一个新的变量，调用int函数将birth_year这个字符串类型转换成整数型。
+age=2020-int(birth_year)#定义一个新的变量，调用int函数将birth_year这个字符串类型转换成整数型（所谓的Tyepe Reversion）。
 print(age)#输出age这个变量，age这个变量为整数型
 print(f'Your age is {age}')#由于age这个变量是整数型，而your age is 是字符串，如果想要把二者直接进行拼接是无法达到的。所以我们调用format函数，↓↓
                            #来格式化字符串，format函数即为格式化的意思。
