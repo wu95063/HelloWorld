@@ -2,7 +2,7 @@
 number=10#number是一个变量
          #number被赋予了10这样一个数值；
          #或者可以说10这个数值被贴上了number这样的一个标签。
-         #此时number的数据类型是整数型（int）
+         #此时number的数据类型是整数型（integer）
 print(number)#->10
 word='Hello'#同样string是一个变量
            #'Hello'这个字符串，被贴上了word这样一个标签
@@ -11,7 +11,7 @@ print(word)
 
 float_number=3.1415#float_number是一个变量
                     #3.1415这个浮点型，被贴上了float_number这样一个标签。
-                    #此时的float_number的数据类型是浮点型
+                    #此时的float_number的数据类型是浮点型(flaot)
 print(float_number)
 number_a=3
 number_b=4
