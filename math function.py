@@ -65,6 +65,7 @@ print(math.sin(math.radians(30)))#-->0.499999999998
 print(math.sin(math.radians(90)))#-->1.0
 print(math.sin(math.radians(0)))#-->0
 print(math.sin(math.pi))#-->1.2246467991473532e-16=1.2*10的-12次幂。
+#未完待续......
 
 
 
